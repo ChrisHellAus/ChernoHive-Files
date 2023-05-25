@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map>
+	<group name="Land_Container_1Mo_DE" pos="6467.981445 284.978455 7465.317383" rpy="-0.000000 0.000000 98.999962" a="-8.99996"/>
+	<group name="Land_Container_1Mo" pos="6529.080078 286.263641 7414.077637" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Container_1Mo_DE" pos="6505.251465 290.423981 7358.651367" rpy="-0.000000 0.000000 98.999962" a="-8.99996"/>
+	<group name="Land_Mil_GuardTower" pos="6436.212891 292.357117 7409.388184" rpy="-0.000000 0.000000 98.999962" a="-8.99996"/>
+	<group name="Land_Village_Pub" pos="6483.162598 292.328644 7388.859375" rpy="-0.000000 0.000000 -179.999939" a="-90.0001"/>
+	<group name="Land_Mil_Fortified_Nest_Watchtower" pos="6440.443848 288.070160 7468.891113" rpy="-0.000000 0.000000 98.999962" a="-8.99996"/>
+	<group name="Land_Mil_Fortified_Nest_Watchtower" pos="6532.212891 286.277008 7451.561035" rpy="-0.000000 0.000000 179.999878" a="-89.9999"/>
+	<group name="Land_Mil_Fortified_Nest_Watchtower" pos="6519.558594 290.638062 7359.325195" rpy="-0.000000 0.000000 -90.000008" a="-180"/>
+	<group name="Land_Mil_Fortified_Nest_Big" pos="6437.528320 291.445770 7372.656250" rpy="-0.000000 -0.000000 44.999939" a="45.0001"/>
+	<group name="Land_Container_1Mo_DE" pos="6451.149902 291.395874 7363.442871" rpy="-0.000000 -0.000000 89.999954" a="4.57764e-05"/>
+</map>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map>
+	<group name="StaticObj_FueldStation_Shed" pos="6396.818848 292.931091 7434.372559" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+	<group name="Land_FuelStation_Feed" pos="6389.897461 290.766113 7435.438477" rpy="-0.000000 -0.000000 89.999954" a="4.57764e-05"/>
+	<group name="Land_FuelStation_Feed" pos="6396.604004 290.802917 7434.290039" rpy="-0.000000 0.000000 107.999962" a="-18"/>
+	<group name="Land_FuelStation_Feed" pos="6403.514648 290.788605 7432.808105" rpy="-0.000000 0.000000 107.999962" a="-18"/>
+</map>

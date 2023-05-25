@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map>
+	<group name="Land_Mil_Tent_Big2_1" pos="6484.509277 288.099060 7430.106934" rpy="0.000000 0.000000 0.000000" a="90"/>
+	<group name="Land_Roadblock_Table" pos="6482.376465 286.454132 7434.446777" rpy="-0.000000 -0.000000 93.341583" a="-3.34158"/>
+	<group name="Land_Roadblock_Table" pos="6480.853027 286.458038 7433.630371" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Roadblock_Table" pos="6479.368652 286.468414 7432.007324" rpy="-0.000000 -0.000000 -91.682617" a="-178.317"/>
+	<group name="Land_Roadblock_Table" pos="6479.389160 286.433014 7428.264160" rpy="-0.000000 -0.000000 91.800117" a="-1.80012"/>
+	<group name="bldr_TacticalBaconCan" pos="6486.705566 286.920746 7427.421387" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+</map>
